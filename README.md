@@ -5,19 +5,32 @@
 <h1 align="center">Toliya-max</h1>
 
 <p align="center">
-  Building practical systems for networking, automation, desktop tools, and security-minded workflows.
+  Nezeronxer · Practical systems builder based in Russia.
 </p>
 
 <p align="center">
   <a href="https://github.com/Toliya-max?tab=repositories">
     <img alt="GitHub repositories" src="https://img.shields.io/badge/repositories-111111?style=for-the-badge&logo=github&logoColor=white">
   </a>
+  <a href="https://www.youtube.com/@nezeron666">
+    <img alt="YouTube channel" src="https://img.shields.io/badge/youtube-@nezeron666-111111?style=for-the-badge&logo=youtube&logoColor=ff4b4b">
+  </a>
+  <img alt="Discord nezeronxer" src="https://img.shields.io/badge/discord-nezeronxer-111111?style=for-the-badge&logo=discord&logoColor=a5b4fc">
   <img alt="Python" src="https://img.shields.io/badge/python-111111?style=for-the-badge&logo=python&logoColor=7dd3fc">
   <img alt="TypeScript" src="https://img.shields.io/badge/typescript-111111?style=for-the-badge&logo=typescript&logoColor=93c5fd">
   <img alt="Tauri" src="https://img.shields.io/badge/tauri-111111?style=for-the-badge&logo=tauri&logoColor=c4b5fd">
 </p>
 
 ---
+
+## About Me
+
+I go by **Nezeronxer** online and build practical systems for networking, automation, desktop tools, and security-minded workflows.
+
+- Based in **Russia**.
+- Discord: **nezeronxer**.
+- YouTube: [@nezeron666](https://www.youtube.com/@nezeron666).
+- I like tools that feel calm to use, but stay reliable when the real world gets messy.
 
 ## What I Build
 
@@ -77,4 +90,8 @@ My favorite kind of project is calm on the surface and stubborn under load: clea
 
 ## Contact
 
-The best place to reach me is through GitHub: open an issue, start a discussion, or leave context directly in the repo where the work lives.
+The best place to reach me is through GitHub or Discord.
+
+- GitHub: [Toliya-max](https://github.com/Toliya-max)
+- Discord: **nezeronxer**
+- YouTube: [@nezeron666](https://www.youtube.com/@nezeron666)
