@@ -29,7 +29,7 @@
 
 ## About Me
 
-My name is **Tolya**. I am **18 years old**, based in **Russia**, and online I go by **Nezeronxer**.
+My name is **Toliya**. I am **18 years old**, based in **Russia**, and online I go by **Nezeronxer**.
 
 I am interested in **neuroprogramming**: using neural networks as a real programming partner for thinking through systems, building tools, debugging workflows, and turning rough ideas into working software. I started working with neural networks in **2020**, and since then they have become part of how I learn, experiment, and build.
 
