@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/avatar.png" width="170" alt="Toliya-max avatar" />
+  <img src="assets/avatar-animated.gif" width="170" alt="Toliya-max animated avatar" />
 </p>
 
 <h1 align="center">Toliya-max</h1>
